@@ -1,0 +1,29 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "creating a qr code generator usive npm packages",
+  "homepage": "https://github.com/nandalalshukla/qrcode-generator#readme",
+  "bugs": {
+    "url": "https://github.com/nandalalshukla/qrcode-generator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandalalshukla/qrcode-generator.git"
+  },
+  "license": "ISC",
+  "author": "Nandalal",
+  "type": "module",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "qr-creator": "^1.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.12"
+  },
+  "keywords": []
+}
