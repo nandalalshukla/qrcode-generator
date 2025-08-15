@@ -20,7 +20,7 @@ function generateQR() {
       ecLevel: "H",
       fill: "#536DFE",
       background: null,
-      size: 280,
+      size: 200,
     },
     qrImg
   );
